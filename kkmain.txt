@@ -1,0 +1,8 @@
+在你的電腦安裝 git
+在github.com註冊帳號
+選用一個熟悉程式碼編輯器
+  Visual studio code
+  Sublime Text 3
+到Heroku去註冊帳號
+安裝Heroku CLI
+min-huang.com
